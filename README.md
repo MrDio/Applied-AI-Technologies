@@ -5,3 +5,4 @@
 [Chapter2: Deep Dive Applied AI with RPI3 and Movidius]</br>
 [Chapter3: Deep Dive Applied AI with Smartphone Sensing Framework and TF Lite for Mobile]</br>
 
+[Appendix: Hackster.io Respected Project Autonomous driving ai](https://www.hackster.io/dhq/autonomous-driving-ai-for-donkey-car-garbage-collector-846c11)</br>
