@@ -6,3 +6,4 @@
 [Chapter3: Deep Dive Applied AI with Smartphone Sensing Framework and TF Lite for Mobile]</br>
 
 [Appendix: Hackster.io Respected Project Autonomous driving ai](https://www.hackster.io/dhq/autonomous-driving-ai-for-donkey-car-garbage-collector-846c11)</br>
+[Appendix: Github.com Respected Project Android AI Car](https://github.com/umadbro96/androidAICar)</br>
