@@ -1,6 +1,6 @@
 # Applied-AI-Technologies
 
-Repo for the lecture "Applied Artificial Intelligence" at the University of Applied Sciences Essingen created by [Dionysios Satikidis](dionysios.satikidis@gmail.com) and Jan Seyler.
+Repo for the lecture "Applied Artificial Intelligence" at the University of Applied Sciences Essingen created by [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) and [Jan Seyler](mailto:Jan.Seyler@gmail.com).
 
 Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies/wiki) for detailed Information. First start with the chapters and intro to NN and DL.
 
