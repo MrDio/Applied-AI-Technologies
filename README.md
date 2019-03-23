@@ -13,6 +13,6 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 [Appendix: Github.com Respected Project Android AI Car](https://github.com/umadbro96/androidAICar)</br>
 
 Thanks to our contributors:
-[D. Lagamtzis](https://github.com/umadbro96)
+[D. Lagamtzis](https://github.com/umadbro96)</br>
 [Peltzfa](https://github.com/peltzefa/)
 
