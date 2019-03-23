@@ -11,3 +11,7 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 
 [Appendix: Hackster.io Respected Project Autonomous driving ai](https://www.hackster.io/dhq/autonomous-driving-ai-for-donkey-car-garbage-collector-846c11)</br>
 [Appendix: Github.com Respected Project Android AI Car](https://github.com/umadbro96/androidAICar)</br>
+
+Thanks to our contributors:
+[D. Lagamtzis]()
+
