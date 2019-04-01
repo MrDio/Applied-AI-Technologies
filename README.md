@@ -16,4 +16,3 @@ Thanks to our contributors:
 </br>
 [D. Lagamtzis](https://github.com/umadbro96)</br>
 [Peltzfa](https://github.com/peltzefa/)
-Andre Bouvet
