@@ -10,7 +10,7 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 [Chapter3: Deep Dive Applied AI with Smartphone Sensing Framework and TF for Mobile](https://github.com/MrDio/Applied-AI-Technologies/wiki/1.-AI-on-Smartphone-Sensing)</br>
 
 
-[Appendix: Intro into Deep Reinforcement Learning Technologies](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[Appendix: Intro into Deep Reinforcement Learning Technologies](https://sites.google.com/view/deep-rl-bootcamp/lectures)</br>
 [Appendix: Hackster.io Respected Project Autonomous driving ai](https://www.hackster.io/dhq/autonomous-driving-ai-for-donkey-car-garbage-collector-846c11)</br>
 [Appendix: Github.com Respected Project Android AI Car](https://github.com/umadbro96/androidAICar)</br>
 
