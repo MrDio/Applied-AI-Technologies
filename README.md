@@ -2,6 +2,8 @@
 
 Repo for the lecture "Applied Artificial Intelligence" at the University of Applied Sciences Esslingen created by [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) and [Jan Seyler](mailto:Jan.Seyler@gmail.com).
 
+[Module Description HS Esslingen](https://www.hs-esslingen.de/fileadmin/media/Fakultaeten/it/FAKULTAET/Studiengaenge/Modulhandbuecher/Wahlfachmodul/HE-IT_Modulhandbuch-Wahlfachmodul-_Wahlpflichtfaecher_SWB_TIB_WKB_2019-02-15.pdf)</br>
+
 Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies/wiki) for detailed Information. First start with the chapters and intro to NN and DL.
 
 [Chapter0: Intro Lecture and AIM](https://github.com/MrDio/Applied-AI-Technologies/wiki)</br>
