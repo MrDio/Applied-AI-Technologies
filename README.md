@@ -18,5 +18,5 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 
 Thanks to our contributors:
 </br>
-[D. Lagamtzis](https://github.com/umadbro96)</br>
+[D. Lagamtzis](https://github.com/DimiHMC)</br>
 [Peltzfa](https://github.com/peltzefa/)
