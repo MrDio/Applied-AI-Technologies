@@ -12,11 +12,9 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 [Chapter3: Deep Dive Applied AI with Smartphone Sensing Framework and TF for Mobile](https://github.com/MrDio/Applied-AI-Technologies/wiki/1.-AI-on-Smartphone-Sensing)</br>
 
 ## (lightweight) Tools
-Sharing Teaser of your project with [Streamlit](https://www.streamlit.io/)
-Implementing and training AI models [Google Colab](https://colab.research.google.com/)
-Model search framework [Model Search](https://github.com/google/model_search)
-
-
+Sharing Teaser of your project with [Streamlit](https://www.streamlit.io/)</br>
+Implementing and training AI models [Google Colab](https://colab.research.google.com/)</br>
+Model search framework [Model Search](https://github.com/google/model_search)</br>
 
 [Appendix: Intro into Deep Reinforcement Learning Technologies](https://sites.google.com/view/deep-rl-bootcamp/lectures)</br>
 [Appendix: Hackster.io Respected Project Autonomous driving ai](https://www.hackster.io/dhq/autonomous-driving-ai-for-donkey-car-garbage-collector-846c11)</br>
