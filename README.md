@@ -11,7 +11,7 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies
 [Chapter2: Deep Dive Applied AI with RPI3 and Movidius](https://github.com/MrDio/Applied-AI-Technologies/wiki/2.-AI-on-the-Raspberry-Pi-with-the-Movidius-Neural-Compute-Stick)</br>
 [Chapter3: Deep Dive Applied AI with Smartphone Sensing Framework and TF for Mobile](https://github.com/MrDio/Applied-AI-Technologies/wiki/1.-AI-on-Smartphone-Sensing)</br>
 
-## (lightweight) Tools
+## Tool references
 Sharing Teaser of your project with [Streamlit](https://www.streamlit.io/)</br>
 Implementing and training AI models [Google Colab](https://colab.research.google.com/)</br>
 Model search framework [Model Search](https://github.com/google/model_search)</br>
